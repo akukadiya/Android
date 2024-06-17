@@ -2,6 +2,6 @@
    "interUrl":"https://www.google.com/",
    "backUrl":"https://www.google.com/",
    "adUrl":"https://www.google.com/",
-   "ads":true,
-   "backAds":true
+   "ads":false,
+   "backAds":false
 }
