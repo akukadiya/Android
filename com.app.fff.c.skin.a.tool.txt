@@ -5,6 +5,7 @@
   "urlNative":"https://firebasestorage.googleapis.com/v0/b/bezi-one.appspot.com/o/3%20(2).jpg?alt=media&token=8118659e-08f1-4cb8-9e8d-83b0ca402136",
   "urlBanner":"https://firebasestorage.googleapis.com/v0/b/bezi-one.appspot.com/o/Frame%209.png?alt=media&token=024e29b8-45ad-4a6d-8a69-467aef8ac7c1",
   "allUrl":"https://www.google.com/search?client=opera&hs=d76&sca_esv=5e69d4e75b5a8bf3&sxsrf=ADLYWIL-YvvlWtz1FfbxNH-Qo4zq3lSKqA:1719467116169&q=images&udm=2&fbs=AEQNm0B8dVdIWR07uWWlg1TdKnNtA1cwMugrQsIKmAo5AEZHWRFlUeGLxYlhagMfUatSvHu3MSamP9Qd2SfjyZyVIdPFrZFmdorP0BQX-5QUvERZ7CgntLysKxPYR85LNkkQ-ODVQlzCBgHDwYGwBEtb1wyzIiqYOAGOFOhRLG73H-MUdJY1ZFjTgiSsk2gQgTHDHU_Mnn5ewYy4nGfZAENFgsXyYdMtYQ&sa=X&ved=2ahUKEwjF2qWVivuGAxVOXGwGHdACAisQtKgLegQIDBAB&biw=707&bih=690&dpr=1.25",
+"urlInter":"https://www.ndtv.com/india-news/hathras-stampede-bhole-baba-satsang-day-after-116-die-in-stampede-top-cops-reach-accident-site-gurus-ashram-in-mainpuri-6022013",
   "Url":true,
 "buttonVisible":true,
 "buttonEnabled":true
