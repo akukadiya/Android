@@ -1,0 +1,17 @@
+{
+  "url":"https://721.play.online.thopgames.com/",
+  "gBanner":"ca-app-pub-7097848776408862/2777057481",
+  "gNative":"ca-app-pub-7097848776408862/1123681578",
+  "gInter":"ca-app-pub-7097848776408862/5634320966",
+  "banner_url":"https://firebasestorage.googleapis.com/v0/b/bezi-one.appspot.com/o/Frame%209.png?alt=media&token=024e29b8-45ad-4a6d-8a69-467aef8ac7c1",
+  "native_url":"https://firebasestorage.googleapis.com/v0/b/bezi-one.appspot.com/o/3%20(2).jpg?alt=media&token=8118659e-08f1-4cb8-9e8d-83b0ca402136",
+  "lottie":"false",
+  "intro":"true",
+  "buttonvi":"true",
+  "buttonen":"true",
+  "inter_url":"https://721.play.online.thopgames.com/",
+  "Url":"true",
+
+
+
+}
