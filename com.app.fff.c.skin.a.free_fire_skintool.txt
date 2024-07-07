@@ -9,7 +9,7 @@
   "intro":"true",
   "buttonvi":"true",
   "buttonen":"true",
-  "inter_url":"https://www.ndtv.com/mumbai-news/mumbai-woman-out-to-buy-fish-dies-after-being-hit-by-speeding-bmw-6051912",
+  "inter_url":"",
   "Url":"true"
 
 
