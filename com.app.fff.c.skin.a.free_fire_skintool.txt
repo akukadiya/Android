@@ -10,7 +10,7 @@
   "buttonvi":"true",
   "buttonen":"true",
   "inter_url":"https://721.play.online.thopgames.com/",
-  "Url":"true",
+  "Url":"true"
 
 
 
