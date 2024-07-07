@@ -1,16 +1,16 @@
 {
-  "url":"https://721.play.online.thopgames.com/",
+  "url":"https://www.ndtv.com/mumbai-news/mumbai-woman-out-to-buy-fish-dies-after-being-hit-by-speeding-bmw-6051912",
   "gBanner":"ca-app-pub-3940256099942544/9214589741",
   "gNative":"ca-app-pub-3940256099942544/2247696110",
   "gInter":"ca-app-pub-3940256099942544/1033173712",
   "banner_url":"https://firebasestorage.googleapis.com/v0/b/bezi-one.appspot.com/o/Frame%209.png?alt=media&token=024e29b8-45ad-4a6d-8a69-467aef8ac7c1",
   "native_url":"https://firebasestorage.googleapis.com/v0/b/bezi-one.appspot.com/o/3%20(2).jpg?alt=media&token=8118659e-08f1-4cb8-9e8d-83b0ca402136",
-  "lottie":"false",
+  "lottie":"true",
   "intro":"true",
   "buttonvi":"true",
   "buttonen":"true",
-  "inter_url":"https://721.play.online.thopgames.com/",
-  "Url":"false"
+  "inter_url":"https://www.ndtv.com/mumbai-news/mumbai-woman-out-to-buy-fish-dies-after-being-hit-by-speeding-bmw-6051912",
+  "Url":"true"
 
 
 
