@@ -3,6 +3,6 @@
   "gBanner": "ca-app-pub-7097848776408862/2777057481",
   "gInter": "ca-app-pub-3940256099942544/1033173712a",
   "appopen2":"ca-app-pub-3940256099942544/9257395921",
-  "lotiee":"false",
+  "lotiee":"true",
 "intro":"true"
 }
