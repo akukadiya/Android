@@ -1,7 +1,7 @@
 {
-  "gNative": "ca-app-pub-3940256099942544/2247696110a",
-  "gBanner": "ca-app-pub-7097848776408862/2777057481a",
-  "gInter": "ca-app-pub-3940256099942544/1033173712a",
+  "gNative": "ca-app-pub-3940256099942544/2247696110",
+  "gBanner": "ca-app-pub-7097848776408862/2777057481",
+  "gInter": "ca-app-pub-3940256099942544/1033173712",
   "appopen2":"ca-app-pub-3940256099942544/9257395921a",
   "lotiee":"false",
 "intro":"true"
