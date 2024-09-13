@@ -5,7 +5,7 @@
   "appopen":"ca-app-pub-3940256099942544/9257395921a",
   "appopen2":"ca-app-pub-3940256099942544/9257395921a",
   "lotiee":"false",
-  "intro":"false"
+  "intro":"true"
 
 
 }
