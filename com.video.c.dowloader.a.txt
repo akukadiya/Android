@@ -4,7 +4,7 @@
   "gInter": "ca-app-pub-3940256099942544/1033173712a",
   "appopen2":"ca-app-pub-3940256099942544/9257395921a",
   "lotiee":"false",
-  "intro":"true"
+  "intro":"false"
 
 
 }
