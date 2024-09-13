@@ -1,12 +1,12 @@
 {
-  "gNative": "ca-app-pub-7097848776408862/2573365129",
-  "gBanner": "ca-app-pub-7097848776408862/2777057481",
-  "gInter": "ca-app-pub-7097848776408862/2272351910",
-  "gBack": "ca-app-pub-7097848776408862/2272351910",
-  "appopen":"ca-app-pub-3940256099942544/9257395921",
+  "gNative": "ca-app-pub-7097848776408862/2573365129a",
+  "gBanner": "ca-app-pub-7097848776408862/2777057481a",
+  "gInter": "ca-app-pub-7097848776408862/2272351910a",
+  "gBack": "ca-app-pub-7097848776408862/2272351910a",
+  "appopen":"ca-app-pub-3940256099942544/9257395921a",
   "appopen2":"ca-app-pub-3940256099942544/9257395921a",
   "lotiee":"false",
-  "intro":"true"
+  "intro":"false"
 
 
 }
